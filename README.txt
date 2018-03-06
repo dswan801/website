@@ -1,13 +1,13 @@
 
 TITLE: 
-Beam - 100% Fully Responsive Free HTML5 Bootstrap Template
+Swanson Labs
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by SwansonLabs.co
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://SwansonLabs.co/
+Twitter: http://twitter.com/
+Facebook: http://facebook.com/
 
 
 CREDITS:
